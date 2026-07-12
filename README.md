@@ -7,8 +7,7 @@ The source code is thoroughly documented, and serves as an example for using Eas
 
 Java 17 and above is supported.
 **A license key is required** to use this program.
-Contact [info@easefilter.com](mailto:info@easefilter.com)
-for a trial key.
+Contact EaseFilter support by email for a trial key.
 
 ## Key Features
 - **Transparent File Encryption**  
